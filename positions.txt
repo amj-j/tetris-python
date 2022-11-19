@@ -1,0 +1,98 @@
+This text file is a reference guide for each position of each brick type
+
+ORANGE:
+    Position 0:
+        0 1 2 3
+
+    Position 1:
+        0
+        1
+        2
+        3
+
+
+RED:
+    Position 0:
+        0 1
+        2 3
+
+
+YELLOW:
+    Position 0:
+        0 1 2
+          3
+    
+    Position 1:
+          2
+        0 1
+          3
+    
+    Position 2:
+          2
+        0 1 3
+    
+    Position 3:
+        2
+        1 3
+        0
+
+
+BLUE:
+    Position 0:
+        0 1 2
+        3
+    
+    Position 1:
+        3 0
+          1
+          2
+    
+    Position 2:
+            3
+        2 1 0
+    
+    Position 3:
+        2
+        1
+        0 3
+
+PURPLE:
+    Position 0:
+        0 1 2
+            3
+    
+    Position 1:
+          0
+          1
+        3 2
+    
+    Position 2:
+        3
+        2 1 0
+    
+    Position 3:
+        2 3
+        1
+        0
+
+
+LIME:
+    Position 0:
+        0 1
+          2 3
+    
+    Position 1:
+          0
+        2 1
+        3
+
+
+SKY_BLUE:
+    Position 0:
+          1 3
+        0 2
+    
+    Position 1:
+        3
+        1 2
+          0 
