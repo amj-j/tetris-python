@@ -11,7 +11,7 @@ To run this game, you need to have Python Interpreter installed on your PC. (Ver
 If you don't have it already, download from [python.org/downloads/](https://www.python.org/downloads/).
 
 ### Installation
-1. Clone this repository using ```bash git clone https://github.com/amj-j/tetris-python.git```
+1. Clone this repository by typing ```git clone https://github.com/amj-j/tetris-python.git``` in git bash.
 2. Run the ```main.py``` file.
 
 ### Gameplay
